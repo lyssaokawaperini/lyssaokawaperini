@@ -13,7 +13,7 @@
 * 📱 Improving on **Mobile Development with Flutter**.
 * 🚀 Committed to creating efficient solutions for academic and real-world projects.
 * 🇧🇷 Based in **Brazil**.
-* 📫 Contact me: **[your-email@gmail.com]**
+* 📫 Contact me: **lyoperini2@gmail.com**
 
 <br/>
 
